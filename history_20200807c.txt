@@ -1,0 +1,60 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ls
+    4  -h
+    5  whereis ls
+    6  ls /bin/ls
+    7  ls -la /bin/ls
+    8  /home/user/EDIBO/README.md
+    9  sudo /home/user/EDIBO/README.md
+   10  chmod 764 README.md
+   11  ls
+   12  /home/user/EDIBO/README.md
+   13  /bin/ls
+   14  ls
+   15  cat /bin/ls
+   16  ls -la
+   17  chmod 644 README.md
+   18  ls
+   19  ls -la
+   20  ls
+   21  cd DEF
+   22  ls
+   23  ls -la
+   24  cat b.txt
+   25  cd ../
+   26  ../
+   27  echo $PATH
+   28  PATH = $PATH
+   29  PATS=$PATH
+   30  PATS=$PATH:/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/user/.dotnet/tools
+   31  ls
+   32  PATS=$PATH
+   33  ls
+   34  man
+   35  PATS=$PATH:/usr/local/anaconda3/bin:/opt/intelFPGA_lite/17.1/quartus/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/user/.dotnet/tools:./
+   36  ls
+   37  PATS=$PATH:~
+   38  echo $PATH
+   39  PATS=$PATH:~/EDIBO
+   40  echo PATH$
+   41  echo $PATH
+   42  man
+   43  ls
+   44  man
+   45  PATS=$PATH:/EDIBO
+   46  echo $PATH
+   47  ls -la
+   48  PATS=$PATH:./
+   49  echo $PATH
+   50  PATS=$PATH:./
+   51  echo $PATH
+   52  PATS=$PATH:./home/user
+   53  echo $PATH
+   54  ls -la /bin
+   55  PATS=$PATH:./home/user/EDIBO
+   56  echo $PATH
+   57  PATS=$PATH:./home/user/EDIBO
+   58  PATH=$PATH:./home/user/EDIBO
+   59  echo $PATH
+   60  history > history_20200807c.txt
