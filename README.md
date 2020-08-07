@@ -5,7 +5,6 @@ EDIBO projekta elektroniskā klade
 * [General info](#general-info)
 * [Topics](#topics)
 * [Linux comands](#linux-comands)
-*
 * [Contact information](#contact-information)
 
 # General info
@@ -46,20 +45,22 @@ I have learned Linux in home learning before EDIBO courses. Generally I have use
 | Ctrl+E 	           | Moves the cursor to the end of the line.|
 | Ctrl+F 	           | Moves the cursor forward one character.|
 | Ctrl+H 	           | Erase one character. Similar to pressing backspace.|
-| Ctrl+P 	           | Paste previous line(s).
-| Ctrl+R 	           | Allows you to search for a previously used command or switch.
-| Ctrl+S 	           | Stops all output on-screen (XOFF).
-| Ctrl+Q 	           | Turns all output stopped on-screen back on (XON). Also, closes an application window.
-| Ctrl+U 	           | Erases the complete line.
-| Ctrl+W             | Deletes the last word typed. For example, if you typed mv file1 file2, this shortcut would delete file2.
-| Ctrl+Z 	           | Cancels the current operation, moves back a directory or takes the current operation and moves it to the background. See bg command for additional information about background.
-| Ctrl+Alt+D 	       | Minimizes all application windows and shows the desktop.
-| Ctrl+Alt+L 	       | Locks the screen.
-| Ctrl+Alt+T 	       | Opens a new terminal window.
-| Ctrl+Alt+Up/Down   | arrow 	Switches between workspaces (if you are a power user and use workspaces).
-| Alt+F2 	           | Open the console to run a command (must be a power user).
-| Arrow Up/Down 	   | Scroll through previously used commands.
+| Ctrl+P 	           | Paste previous line(s).|
+| Ctrl+R 	           | Allows you to search for a previously used command or switch.|
+| Ctrl+S 	           | Stops all output on-screen (XOFF).|
+| Ctrl+Q 	           | Turns all output stopped on-screen back on (XON). Also, closes an application window.|
+| Ctrl+U 	           | Erases the complete line.|
+| Ctrl+W             | Deletes the last word typed. For example, if you typed mv file1 file2, this shortcut would delete file2.|
+| Ctrl+Z 	           | Cancels the current operation, moves back a directory or takes the current operation and moves it to the background. See bg command for additional information about background.|
+| Ctrl+Alt+D 	       | Minimizes all application windows and shows the desktop.|
+| Ctrl+Alt+L 	       | Locks the screen.|
+| Ctrl+Alt+T 	       | Opens a new terminal window.|
+| Ctrl+Alt+Up/Down   | arrow 	Switches between workspaces (if you are a power user and use workspaces).|
+| Alt+F2 	           | Open the console to run a command (must be a power user).|
+| Arrow Up/Down 	   | Scroll through previously used commands.|
 
+### "Hot button" Information used from: 
+* https://www.computerhope.com/ushort.htm
 
 
 ## Contact information
