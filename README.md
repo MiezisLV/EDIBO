@@ -71,6 +71,9 @@ I have learned Linux in home learning before EDIBO courses. Generally I have use
 ### "Hot button" information used from: 
 * https://www.computerhope.com/ushort.htm
 
+###ASCIII table
+[ASCII table] (http://www.ecowin.org/ascii.htm)
+
 
 ## Contact information
 | Made by            |
