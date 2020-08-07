@@ -34,6 +34,12 @@ I have learned Linux in home learning before EDIBO courses. Generally I have use
 |   adduser "name"   | Make a user with chosen name.                                                  |
 |   su               | Switch user.                                                                   |
 |   sudo             | Allows to do almost any command.                                               |
+|   sudo chown       | Allows you to change the owner and group owner of a file                       |
+|   git clone "link" | Allows to clone some file or new program for linux machine                     |
+|   df               | The df command shows the size, used space, and available space on the mounted filesystems of your computer. |
+|   echo             | The echo command prints (echoes) a string of text to the terminal window.      |
+|   exit             | The exit command will close a terminal window, end the execution of a shell script, or log you out of an SSH remote access session.|
+|   find             | Use the find command to track down files that you know exist if you can’t remember where you put them.|
 
 ## Linux "Hot buttons"
 | Button combination | Discription      |
