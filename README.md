@@ -4,9 +4,9 @@ EDIBO projekta elektroniskā klade
 ## Table of contents
 * [General info](#general-info)
 * [Topics](#topics)
-* [Linux comands](#linux comands)
+* [Linux comands](#linux-comands)
 *
-* [Contact information](#contact information)
+* [Contact information](#contact-information)
 
 # General info
 I have learned Linux in home learning before EDIBO courses. Generally I have used Kali Linux programms for tryhackme.com hacking rooms.
