@@ -41,6 +41,9 @@ I have learned Linux in home learning before EDIBO courses. Generally I have use
 |   exit             | The exit command will close a terminal window, end the execution of a shell script, or log you out of an SSH remote access session.|
 |   find             | Use the find command to track down files that you know exist if you can’t remember where you put them.|
 
+### Some of Linux comands information used from: 
+* https://www.howtogeek.com/412055/37-important-linux-commands-you-should-know/
+
 ## Linux "Hot buttons"
 | Button combination | Discription      |
 | :------------      |:---------------: |
@@ -65,7 +68,7 @@ I have learned Linux in home learning before EDIBO courses. Generally I have use
 | Alt+F2 	           | Open the console to run a command (must be a power user).|
 | Arrow Up/Down 	   | Scroll through previously used commands.|
 
-### "Hot button" Information used from: 
+### "Hot button" information used from: 
 * https://www.computerhope.com/ushort.htm
 
 
