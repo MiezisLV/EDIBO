@@ -13,4 +13,7 @@ Izmēģināsim dats no šiem paņēmieniem SHELL'ā
 izmantosiem piemērus no
 1. Darbs ar mainīgiem
 
-2.https://www.tutorialspoint.com/unix/unix-special-variables.htm
+2.Special variables
+https://www.tutorialspoint.com/unix/unix-special-variables.htm
+
+3.
