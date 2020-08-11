@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "Izvēlies skaitli"
+read SKAITLIS1
+echo "Izvēlies otro skaitli"
+read SKAITLIS2
+
+echo "obase=2;$SKAITLIS1" | bc
+echo "obase=2;$SKAITLIS2" | bc
+
